@@ -1,9 +1,8 @@
 # makefun-one-line-zero-use-01
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68)
-[![owner](https://img.shields.io/badge/owner-yzrzlrizal--blip-green)](https://github.com/yzrzlrizal-blip)
-[![repo](https://img.shields.io/badge/repo-makefun--one--line--zero--use--01-lightgrey)](https://github.com/yzrzlrizal-blip/makefun-one-line-zero-use-01)
-[![referral](https://img.shields.io/badge/referral-wdbz3sg5-orange)](https://make.fun/?ref=wdbz3sg5)
+[![make.fun · u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68](https://make.fun/badge/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68)
+[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68/yzrzlrizal-blip/makefun-one-line-zero-use-01/rank.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68)
+[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68/yzrzlrizal-blip/makefun-one-line-zero-use-01/reward.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68)
 
 One original line describing a hilariously useless superpower: the power to stop time with a single thought — a thought that only ever arrives while already late. A tiny deterministic Python program writes that single line (112 characters, no trailing newline) to `entry.txt`.
 
